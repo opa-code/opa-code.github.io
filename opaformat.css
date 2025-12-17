@@ -1,0 +1,9 @@
+body {background-color:white;padding-right:150;padding-left:150}
+span,p,h1,h2,h3,h4,h5,h6,ul,ol,li,div,td,th,address,blockquote,nobr,b,i {font-family:Arial,sans-serif;color:black}
+b {font-weight:bold;color:blue;vertical-align:bottom}
+i {color:fuchsia;vertical-align:bottom}
+td,th {vertical-align:bottom}
+a:link {color:blue;text-decoration:none}
+a:visited {color:blue;text-decoration:none}
+a:active {color:hotpink;text-decoration:none}
+img {border:0;vertical-align:bottom}
